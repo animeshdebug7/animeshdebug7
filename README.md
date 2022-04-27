@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src = "files for readme/AI-is-the-new-electricity-1080x675.jpg" width = "50%">
+
 <!--
 **animeshdebug7/animeshdebug7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
