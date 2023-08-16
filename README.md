@@ -1,6 +1,5 @@
 ## Hi 👋
 
-<img src = "files for readme/AI-is-the-new-electricity-1080x675.jpg" width = "70%">
 
 - 🔭 BTech. in Electronics and Communication Engineer from JEC, Jabalpur
 - 🌱 I’m currently learning about Data Science
