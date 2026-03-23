@@ -44,5 +44,4 @@ MS (Research) @ IIT Delhi working on **LLMs and Multimodal AI**
 
 ## 📫 Connect
 
-- LinkedIn: linkedin.com/in/animeshsingh007  
-- GitHub: github.com/animeshdebug7  
+- LinkedIn: linkedin.com/in/animeshsingh007
